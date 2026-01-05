@@ -18,7 +18,7 @@ This project provides a data-driven approach to evaluate:
 ---
 
 ## 📁 Repository Structure
-
+```
 Bank-Loan-Analysis/
 ├── Bank Loan Project.ipynb
 ├── Bank Loan Report.pbix
@@ -32,7 +32,7 @@ Bank-Loan-Analysis/
 ├── Terminologies in Data.docx
 ├── LICENSE
 └── README.md
-
+```
 
 ---
 
